@@ -1,0 +1,1 @@
+cmd_net/netfilter/adkill/adkill.ko := /opt/ralink-toolchains/buildroot-gcc342/bin/mipsel-linux-uclibc-ld -r  -m elf32ltsmip -T /mnt/disk1/kuaiwifi_release/RT288x_SDK/source/linux-2.6.36.x/scripts/module-common.lds   -o net/netfilter/adkill/adkill.ko net/netfilter/adkill/adkill.o net/netfilter/adkill/adkill.mod.o

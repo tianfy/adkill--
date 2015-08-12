@@ -1,0 +1,1 @@
+cmd_net/netfilter/adkill/adkill.o := /opt/ralink-toolchains/buildroot-gcc342/bin/mipsel-linux-uclibc-ld  -m elf32ltsmip   -r -o net/netfilter/adkill/adkill.o net/netfilter/adkill/advkill.o net/netfilter/adkill/strcmd.o net/netfilter/adkill/pkgoper.o net/netfilter/adkill/advproc.o net/netfilter/adkill/advhash.o net/netfilter/adkill/advconfparse.o 

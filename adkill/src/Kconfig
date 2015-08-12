@@ -1,0 +1,5 @@
+config ADKILL
+　　tristate "Just a adkill"
+　　help
+　　　This is a adkill.
+　　　If unsure, say N.
